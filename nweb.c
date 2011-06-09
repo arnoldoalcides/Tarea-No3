@@ -10,7 +10,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
-/*threads library*/
+/*threads library...*/
 #include <pthread.h>
 #include <assert.h>
 
